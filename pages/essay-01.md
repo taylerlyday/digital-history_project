@@ -23,6 +23,8 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 # Heading One
 
+I am at a conference meet for track and field in Boseman, Idaho. I am going to just write about my experience here in paragraphs because I don't know what my essay topic is going to be about yet. So, this is Day 1 of being here and it is very cold, as in -11 degrees cold.
+
 ## Heading Two
 
 ### Heading Three, etc.
