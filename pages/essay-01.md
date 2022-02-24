@@ -23,7 +23,7 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 # Heading One
 
-I am at a conference meet for track and field in Boseman, Idaho. I am going to just write about my experience here in paragraphs because I don't know what my essay topic is going to be about yet. So, this is Day 1 of being here and it is very cold, as in -11 degrees cold.
+I am at a conference meet for track and field in Boseman, Idaho. I am going to just write about my experience here in paragraphs because I don't recall my essay topic right now. So, this is Day 1 of being here and it is very cold, as in -11 degrees cold.
 
 ## Heading Two
 
@@ -38,10 +38,11 @@ A bullet list is created using `*`, `+`, or `-`, like:
 - muffin
 
 *Conference Meet 2022*
-+spikes
-+sand pit
-+cold
-+food
+
++ spikes
++ sand pit
++ cold
++ food
 +competition
 
 A numbered list is created using a number + `.`, like:
