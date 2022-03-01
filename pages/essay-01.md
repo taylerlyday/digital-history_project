@@ -8,6 +8,10 @@ permalink: /essay-01.html
 
 # Extravaganza
 
+{% include feature/line-chart.html data="sotu-20th-century" topic="The American Dream" %}
+
+I chose to feature this topic because I feel like the idea of "American Dream" has changed in the past decade due to the circumstances the world is in right now.
+
 ## Introduction
 
 Here's some sample text, written in Markdown.
