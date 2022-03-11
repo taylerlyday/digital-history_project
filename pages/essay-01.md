@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # The Art of English
 
@@ -33,7 +33,7 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 # Heading One
 
-
+### My First Subheading
 
 ## Notes
 
