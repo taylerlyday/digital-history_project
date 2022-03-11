@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
-# Extravaganza
+# The Art of English
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="The American Dream" %}
 
