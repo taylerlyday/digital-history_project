@@ -8,10 +8,11 @@ permalink: /essay-01.html
 
 # The Art of English
 
-{% include feature/line-chart.html data="sotu-20th-century" topic="The American Dream" %}
+{% include feature/line-chart.html data="sotu-20th-century" topic="foundations of America" %}
+
+I chose to feature this graph because I feel like one of the concepts for the foundation of America is the english language itself. The language has added a lot more words to the dictionary compared to the 1900s. Since the standard American citizen has altered severly, I thought this graph would help with distinguishing the fact of how a lot has changed due to the American people overtime.
 
 I am at a conference meet for track and field in Boseman, Idaho. I am going to just write about my experience here in paragraphs because I don't recall my essay topic right now. So, this is Day 1 of being here and it is very cold, as in -11 degrees cold.
-I chose to feature this topic because I feel like the idea of "American Dream" has changed in the past decade due to the circumstances the world is in right now.
 
 ## Introduction
 
