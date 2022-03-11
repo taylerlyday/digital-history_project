@@ -10,6 +10,7 @@ permalink: /essay-01.html
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="The American Dream" %}
 
+I am at a conference meet for track and field in Boseman, Idaho. I am going to just write about my experience here in paragraphs because I don't recall my essay topic right now. So, this is Day 1 of being here and it is very cold, as in -11 degrees cold.
 I chose to feature this topic because I feel like the idea of "American Dream" has changed in the past decade due to the circumstances the world is in right now.
 
 ## Introduction
@@ -27,7 +28,7 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 # Heading One
 
-I am at a conference meet for track and field in Boseman, Idaho. I am going to just write about my experience here in paragraphs because I don't recall my essay topic right now. So, this is Day 1 of being here and it is very cold, as in -11 degrees cold.
+
 
 ## Heading Two
 
