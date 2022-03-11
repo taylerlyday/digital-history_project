@@ -37,7 +37,7 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 ### Heading Three, etc.
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
+Hyperlinks look like this [GitHub Help](https://help.github.com/) {:target="_blank" rel="noopener"}
 
 
 *Conference Meet 2022*
