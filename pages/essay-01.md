@@ -37,13 +37,8 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 ### Heading Three, etc.
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
+Hyperlinks look like this [GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
 
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
 
 *Conference Meet 2022*
 
@@ -51,14 +46,7 @@ A bullet list is created using `*`, `+`, or `-`, like:
 + sand pit
 + cold
 + food
-+competition
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
++ competition
 
 A horizontal line break can be useful for separating content:
 
