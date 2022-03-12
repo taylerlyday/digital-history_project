@@ -8,6 +8,8 @@ permalink: /essay-01.html
 
 # The Art of English
 
+{% include feature/image.html filename="Republican-Party-Platforms-from-the-20th-century.png" alt="image of a word cloud generated from Republican Party Platforms from the 20th century" %}
+
 {% include feature/line-chart.html data="sotu-20th-century" topic="foundations of America" %}
 
 I chose to feature this graph because I feel like one of the concepts for the foundation of America is the english language itself. The language has added a lot more words to the dictionary compared to the 1900s. Since the standard American citizen has altered severly, I thought this graph would help with distinguishing the fact of how a lot has changed due to the American people overtime. [^1]
