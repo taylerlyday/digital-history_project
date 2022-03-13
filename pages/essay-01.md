@@ -34,7 +34,7 @@ I will first talk about how the English language aims to create independence and
 
 {% include feature/image.html filename="Republican-Party-Platforms-from-the-20th-century.png" alt="image of a word cloud generated from Republican Party Platforms from the 20th century" %}
 
-I chose to add this picture so it can give a further explanation of how powerful these words are in the political stance.
+I chose to add this picture so it can give a further explanation of how powerful these words are in the political stance. [^1]
 
 ### The Roosevelt Corollary
 
