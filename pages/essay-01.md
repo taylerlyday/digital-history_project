@@ -8,7 +8,7 @@ permalink: /essay-01.html
 
 # The Art of English
 
-
+{% include feature/image.html filename="New-image.png" alt="Political words and their use overtime" %}
 
 
 
