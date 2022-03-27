@@ -8,7 +8,7 @@ permalink: /essay-01.html
 
 # The Art of English
 
-{% include feature/image.html filename="Republican-Party-Platforms-from-the-20th-century.png" alt="image of a word cloud generated from Republican Party Platforms from the 20th century" %}
+
 
 
 
