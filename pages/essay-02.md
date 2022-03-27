@@ -10,6 +10,8 @@ permalink: /essay-02.html
 
 ## Introduction
 
+{% include feature/image.html filename="Herbert-Hoover-Speech.jpg" alt="Picture of Herbert Hoover" %}
+
 ## Conclusion
 
 ## Notes
